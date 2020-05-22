@@ -1,0 +1,9 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "project lerna test dummy",
+  "main": "index.js",
+  "author": "sihui",
+  "license": "MIT",
+  "private": false
+}
