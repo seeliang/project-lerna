@@ -1,10 +1,10 @@
 {
-  "name": "@seeliang/lerna-dummy",
+  "name": "seeliang-lerna-dummy",
   "version": "1.0.5",
   "description": "project lerna test dummy",
   "main": "index.js",
   "author": "sihui",
   "license": "MIT",
   "private": false,
-  "gitHead": "c4c02f0c93691121659ded4a0ab813a290608282"
+  "gitHead": "9476c81997d1d2001bac728af9abeae36b728541"
 }
