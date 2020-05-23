@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "sihui",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "private": false,
-  "gitHead": "9476c81997d1d2001bac728af9abeae36b728541"
+  "gitHead": "efb3ca7cbd5246f26bb8cd70981e20d468c8117a"
 }
