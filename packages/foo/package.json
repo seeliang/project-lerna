@@ -1,5 +1,5 @@
 {
-  "name": "foo",
+  "name": "@seeliang/foo",
   "version": "1.0.4",
   "description": "testing lerna",
   "author": "sliang <hi@sihuiliang.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/seeliang/project-lerna/issues"
   },
-  "gitHead": "1060357fa0b92a444faf26fc59d23794e7bf11a6"
+  "gitHead": "dd3855567c40af37e490c234e4ab6fa6c2078096"
 }
