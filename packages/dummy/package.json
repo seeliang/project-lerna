@@ -1,6 +1,6 @@
 {
   "name": "dummy",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "project lerna test dummy",
   "main": "index.js",
   "author": "sihui",
