@@ -1,5 +1,5 @@
 {
-  "name": "seeliang-lerna-dummy",
+  "name": "dummy",
   "version": "1.0.8",
   "description": "project lerna test dummy",
   "main": "index.js",
@@ -9,5 +9,5 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "private": false,
-  "gitHead": "a2b4ceafbc1c869e676542851b83e9819f200509"
+  "gitHead": "a3e5bb401b590d8bb5a10ee6a74d128fb4a02be6"
 }
