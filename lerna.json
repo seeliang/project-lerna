@@ -7,6 +7,9 @@
     "publish": {
       "message": "chore(release): publish",
       "registry": "https://npm.pkg.github.com"
+    },
+    "create": {
+      "registry": "https://npm.pkg.github.com"
     }
   },
   "version": "independent"

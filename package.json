@@ -6,6 +6,6 @@
   },
   "scripts": {
     "release": "yarn lerna publish",
-    "create": "lerna create"
+    "generate": "lerna create"
   }
 }
