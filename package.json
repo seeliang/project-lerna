@@ -5,6 +5,6 @@
     "lerna": "^3.21.0"
   },
   "scripts": {
-    "release": "yarn lerna publish"
+    "release": "yarn lerna publish --registry https://npm.pkg.github.com"
   }
 }
