@@ -1,13 +1,10 @@
 {
   "name": "dummy",
-  "version": "1.0.9",
+  "version": "1.0.8",
   "description": "project lerna test dummy",
   "main": "index.js",
   "author": "sihui",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "private": false,
   "gitHead": "a3e5bb401b590d8bb5a10ee6a74d128fb4a02be6"
 }
