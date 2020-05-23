@@ -1,5 +1,5 @@
 {
-  "name": "dummy",
+  "name": "@seeliang/dummy",
   "version": "1.0.13",
   "description": "project lerna test dummy",
   "main": "index.js",
