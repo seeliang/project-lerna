@@ -5,7 +5,9 @@
     "lerna": "^3.21.0"
   },
   "scripts": {
-    "release": "yarn lerna publish --registry https://npm.pkg.github.com",
+    "ship": "yarn lerna publish",
+    "release": "yarn registry && yarn ship" ,
+    "registry": "npm config set registry https://npm.pkg.github.com",
     "create": "lerna create"
   }
 }
