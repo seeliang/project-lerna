@@ -6,6 +6,6 @@
   },
   "scripts": {
     "release": "yarn lerna publish --registry https://npm.pkg.github.com",
-    "bootstrap": "yarn lerna bootstrap -- --registry=https://npm.pkg.github.com"
+    "create": "lerna create"
   }
 }
