@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/seeliang/project-lerna/issues"
-  }
+  },
+  "gitHead": "916eb07206cbaa63db3ed419e5d383273b65d4ac"
 }
