@@ -5,7 +5,7 @@
     "lerna": "^3.21.0"
   },
   "scripts": {
-    "release": "yarn lerna publish",
+    "release": "yarn lerna version --conventional-commits",
     "generate": "lerna create"
   }
 }
