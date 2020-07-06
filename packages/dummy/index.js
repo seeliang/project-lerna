@@ -1,1 +1,1 @@
-console.log("add env token")
+console.log("try lern publish")
