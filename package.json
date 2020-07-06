@@ -5,7 +5,7 @@
     "lerna": "^3.21.0"
   },
   "scripts": {
-    "release": "yarn lerna version --conventional-commits",
+    "release": "yarn lerna version --conventional-commits --create-release github",
     "generate": "lerna create"
   }
 }
