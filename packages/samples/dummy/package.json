@@ -1,10 +1,16 @@
 {
   "name": "@seeliang/dummy",
-  "version": "1.0.14",
+  "version": "1.1.7",
   "description": "project lerna test dummy",
   "main": "index.js",
   "author": "sihui",
   "license": "MIT",
   "private": false,
-  "gitHead": "e03330f0f6eba19fc34d48eb4e044e7831dbe797"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeliang/project-lerna.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
