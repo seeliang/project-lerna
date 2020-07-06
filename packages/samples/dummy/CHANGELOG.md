@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.9](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.8...@seeliang/dummy@1.1.9) (2020-07-06)
+
+
+### Bug Fixes
+
+* trigger ([ab31292](https://github.com/seeliang/project-lerna/commit/ab31292a8cfea497d0cf607be2a9f2a042aa90ac))
+
+
+
+
+
+## [1.1.8](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.7...@seeliang/dummy@1.1.8) (2020-07-06)
+
+
+### Bug Fixes
+
+* trigger ([f79abde](https://github.com/seeliang/project-lerna/commit/f79abde87827b09a7b6335fee81d4a35156dc5ec))
+
+
+
+
+
 ## [1.1.7](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.6...@seeliang/dummy@1.1.7) (2020-07-06)
 
 
