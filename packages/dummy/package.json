@@ -6,5 +6,7 @@
   "author": "sihui",
   "license": "MIT",
   "private": false,
-  "gitHead": "e03330f0f6eba19fc34d48eb4e044e7831dbe797"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
