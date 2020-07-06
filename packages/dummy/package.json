@@ -6,6 +6,10 @@
   "author": "sihui",
   "license": "MIT",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeliang/project-lerna.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
