@@ -1,1 +1,1 @@
-console.log("try lern publish")
+console.log("try github publish set")
