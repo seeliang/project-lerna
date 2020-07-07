@@ -15,6 +15,10 @@ jobs:
                   git config user.email hi@sihuiliang.com
                   git config user.name seeliang
             - run: 
+                name: add registry info
+                command: |
+                  npm set //npm.pkg.github.com/:_authToken ${GH_TOKEN}
+            - run: 
                 name: release package
                 command: yarn && yarn release
 workflows:
