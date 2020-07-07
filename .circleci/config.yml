@@ -9,8 +9,14 @@ jobs:
       - checkout
       - node/with-cache:
           steps:
-            - run: yarn 
-            - run: yarn release
+            - run: 
+                name: add github info
+                command: |
+                  git config user.email hi@sihuiliang.com
+                  git config user.name circleCI@seeliang
+            - run: 
+                name: release package
+                command: yarn && yarn release
 workflows:
     release-package:
       jobs:
