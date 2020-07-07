@@ -4,5 +4,5 @@ module.exports = bar;
 
 function bar() {
     // TODO
-    console.log('release local test')
+    console.log('release test')
 }
