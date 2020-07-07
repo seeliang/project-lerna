@@ -13,7 +13,7 @@ jobs:
                 name: add github info
                 command: |
                   git config user.email hi@sihuiliang.com
-                  git config user.name circleCI@seeliang
+                  git config user.name seeliang
             - run: 
                 name: release package
                 command: yarn && yarn release
