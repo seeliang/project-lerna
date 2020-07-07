@@ -2,6 +2,7 @@
   "name": "project-lerna",
   "private": true,
   "devDependencies": {
+    "jest": "^26.1.0",
     "lerna": "^3.21.0"
   },
   "workspaces": [

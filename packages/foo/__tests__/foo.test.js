@@ -1,7 +1,10 @@
 'use strict';
 
-const foo = require('..');
+const foo = require('../lib/foo');
+
 
 describe('foo', () => {
-    it('needs tests');
+    test('foo', () => {
+        expect(3).toBe(3);
+    })
 });
