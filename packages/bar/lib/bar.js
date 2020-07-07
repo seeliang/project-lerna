@@ -4,5 +4,5 @@ module.exports = bar;
 
 function bar() {
     // TODO
-    console.log('release by ci')
+    console.log('release test')
 }
