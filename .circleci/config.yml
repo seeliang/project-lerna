@@ -12,11 +12,11 @@ jobs:
             - run: yarn 
             - run: yarn release
 workflows:
-    release:
+    release-package:
       jobs:
-        - release
-          filters:
-            branches:
-              only:
-                - master
-                - merge-release
+        - release:
+            filters:
+              branches:
+                only:
+                  - master
+                  - merge-release
