@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/seeliang/project-lerna/compare/@seeliang/bar@1.0.3...@seeliang/bar@1.0.4) (2020-07-07)
+
+
+### Bug Fixes
+
+* local test ([6eb604a](https://github.com/seeliang/project-lerna/commit/6eb604a838e301b9ec6979bed59718b0c295faeb))
+
+
+
+
+
 ## [1.0.3](https://github.com/seeliang/project-lerna/compare/@seeliang/bar@1.0.2...@seeliang/bar@1.0.3) (2020-07-07)
 
 
