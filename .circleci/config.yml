@@ -2,16 +2,30 @@ version: 2.1
 orbs:
   node: circleci/node@1.1.6
 jobs:
-  build-and-test:
+  release:
     executor:
       name: node/default
     steps:
       - checkout
       - node/with-cache:
           steps:
-            - run: npm install
-            - run: npm test
+            - run: 
+                name: add github info
+                command: |
+                  git config user.email hi@sihuiliang.com
+                  git config user.name seeliang
+            - run: 
+                name: add registry info
+                command: |
+                  npm set //npm.pkg.github.com/:_authToken ${GH_TOKEN}
+            - run: 
+                name: release package
+                command: yarn && yarn release
 workflows:
-    build-and-test:
+    release-package:
       jobs:
-        - build-and-test
+        - release:
+            filters:
+              branches:
+                only:
+                  - master

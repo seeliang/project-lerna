@@ -4,5 +4,5 @@ module.exports = foo;
 
 function foo() {
     // TODO
-    console.log(1343242)
+    console.log(23423)
 }
