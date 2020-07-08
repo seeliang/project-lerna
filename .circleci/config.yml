@@ -11,7 +11,7 @@ jobs:
           steps:
             - run: 
                 name: run unit test
-                command: yarn test
+                command: yarn && yarn test
   release:
     executor:
       name: node/default
