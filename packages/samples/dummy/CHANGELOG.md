@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.14](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.13...@seeliang/dummy@1.1.14) (2021-10-20)
+
+
+### Bug Fixes
+
+* trigger ([9162e9a](https://github.com/seeliang/project-lerna/commit/9162e9a303f456a606c0d628f227cc2ea8e13c80))
+
+
+
+
+
 ## [1.1.13](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.12...@seeliang/dummy@1.1.13) (2021-10-20)
 
 
