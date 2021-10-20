@@ -1,1 +1,1 @@
-console.log("try lerna sub again ")
+console.log("try lerna sub again  wer")
