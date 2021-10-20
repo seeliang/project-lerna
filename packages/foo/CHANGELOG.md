@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.14](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.13...@seeliang/foo@1.0.14) (2021-10-20)
+
+
+### Bug Fixes
+
+* release test ([a2aa3aa](https://github.com/seeliang/project-lerna/commit/a2aa3aaa27aefa7f6fab2337ab1c7789a86c4eda))
+
+
+
+
+
 ## [1.0.13](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.12...@seeliang/foo@1.0.13) (2020-07-07)
 
 **Note:** Version bump only for package @seeliang/foo

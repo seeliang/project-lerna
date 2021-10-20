@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.12](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.11...@seeliang/dummy@1.1.12) (2021-10-20)
+
+
+### Bug Fixes
+
+* release test ([a2aa3aa](https://github.com/seeliang/project-lerna/commit/a2aa3aaa27aefa7f6fab2337ab1c7789a86c4eda))
+* test ([509e53c](https://github.com/seeliang/project-lerna/commit/509e53caa48c5e868167c6c8e76ecceb7e51d517))
+
+
+
+
+
 ## [1.1.11](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.10...@seeliang/dummy@1.1.11) (2020-07-07)
 
 **Note:** Version bump only for package @seeliang/dummy
