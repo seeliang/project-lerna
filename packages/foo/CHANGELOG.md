@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.18](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.16...@seeliang/foo@1.0.18) (2021-10-26)
+
+
+### Bug Fixes
+
+* test ([8e9a37e](https://github.com/seeliang/project-lerna/commit/8e9a37ede41d67c9e77b76c1720af2851eac23cf))
+
+
+
+
+
 ## [1.0.17](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.16...@seeliang/foo@1.0.17) (2021-10-26)
 
 
