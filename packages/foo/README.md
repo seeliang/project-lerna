@@ -4,8 +4,8 @@
 
 ## Usage
 
-```
-const foo = require('foo');
+``` 
+const foo = require('foo'); 
 
 // TODO: DEMONSTRATE API
 ```
