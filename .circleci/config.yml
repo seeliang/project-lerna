@@ -29,9 +29,9 @@ jobs:
 workflows:
     release-package:
       jobs:
-        # - unitTest
-        - release
-            # filters:
-            #   branches:
-            #     only:
-            #       - master
+        - unitTest
+        - release:
+            filters:
+              branches:
+                only:
+                  - master
