@@ -30,8 +30,8 @@ workflows:
     release-package:
       jobs:
         - unitTest
-        - release:
-            filters:
-              branches:
-                only:
-                  - master
+        # - release:
+        #     filters:
+        #       branches:
+        #         only:
+        #           - master
