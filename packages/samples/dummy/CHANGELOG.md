@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.17-alpha.1 (2021-10-27)
+
+
+### Bug Fixes
+
+* release test ([0cbfb7e](https://github.com/seeliang/project-lerna/commit/0cbfb7ed5562ab7df8818bcb34521868a0a9b606))
+
+
+
+
+
 ## [1.1.15](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.14...@seeliang/dummy@1.1.15) (2021-10-20)
 
 

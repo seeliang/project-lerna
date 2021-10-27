@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.8 (2021-10-27)
+
+
+### Bug Fixes
+
+* release test ([0cbfb7e](https://github.com/seeliang/project-lerna/commit/0cbfb7ed5562ab7df8818bcb34521868a0a9b606))
+
+
+
+
+
 ## [1.0.7](https://github.com/seeliang/project-lerna/compare/@seeliang/bar@1.0.6...@seeliang/bar@1.0.7) (2020-07-07)
 
 **Note:** Version bump only for package @seeliang/bar
