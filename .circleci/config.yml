@@ -20,14 +20,9 @@ jobs:
       - node/with-cache:
           steps:
             - run: 
-                name: add github info
+                name: add publish info
                 command: |
-                  git config user.email hi@sihuiliang.com
-                  git config user.name seeliang
-            - run: 
-                name: add registry info
-                command: |
-                  npm set //npm.pkg.github.com/:_authToken ${GH_TOKEN}
+                  bash bash/publish_set.sh
             - run: 
                 name: release package
                 command: yarn && yarn release
