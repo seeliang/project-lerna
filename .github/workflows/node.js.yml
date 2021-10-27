@@ -28,7 +28,7 @@ jobs:
       env: 
         GH_PACKAGE_TOKEN: ${{secrets.GH_PACKAGE_TOKEN}}
       run: |
-        bash bash/publish.sh
+        bash bash/publish_set.sh
     - name: Get remote branches
       run: |
         git remote set-branches origin '*'
