@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.23 (2022-04-29)
+
+
+### Bug Fixes
+
+* fake release ([#34](https://github.com/seeliang/project-lerna/issues/34)) ([cc672b5](https://github.com/seeliang/project-lerna/commit/cc672b5e9c5cee97993c97d95b76e738c52f7311))
+
+
+
+
+
 ## 1.0.22 (2021-10-27)
 
 
