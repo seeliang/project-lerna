@@ -3,6 +3,88 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.25-alpha.0](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.24...@seeliang/foo@1.0.25-alpha.0) (2022-05-02)
+
+
+### Bug Fixes
+
+* try merge release ([dd3c0b0](https://github.com/seeliang/project-lerna/commit/dd3c0b04a1b1161ea3d404ec06b0d04eb722ee3c))
+
+
+
+
+
+## [1.0.24](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.24-alpha.0...@seeliang/foo@1.0.24) (2022-05-02)
+
+**Note:** Version bump only for package @seeliang/foo
+
+
+
+
+
+## [1.0.24-alpha.0](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.4...@seeliang/foo@1.0.24-alpha.0) (2022-05-02)
+
+
+### Bug Fixes
+
+* graduate ([63296a4](https://github.com/seeliang/project-lerna/commit/63296a47367d354fb2ec41417b152a7bba442d49))
+
+
+
+
+
+## [1.0.23](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.4...@seeliang/foo@1.0.23) (2022-05-02)
+
+**Note:** Version bump only for package @seeliang/foo
+
+
+
+
+
+## [1.0.23-alpha.4](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.3...@seeliang/foo@1.0.23-alpha.4) (2022-05-02)
+
+
+### Bug Fixes
+
+* trigger ([7d38b14](https://github.com/seeliang/project-lerna/commit/7d38b14ab6c01a42e139e741fc21c12c856e1b2f))
+
+
+
+
+
+## [1.0.23-alpha.3](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.2...@seeliang/foo@1.0.23-alpha.3) (2022-05-02)
+
+
+### Bug Fixes
+
+* pre ([efc52f7](https://github.com/seeliang/project-lerna/commit/efc52f756d65010ed547328e6381135545921edd))
+
+
+
+
+
+## [1.0.23-alpha.2](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.1...@seeliang/foo@1.0.23-alpha.2) (2022-05-02)
+
+
+### Bug Fixes
+
+* release pre ([5713382](https://github.com/seeliang/project-lerna/commit/57133824a7c5b849540bcebe4945b5201c91d568))
+
+
+
+
+
+## [1.0.23-alpha.1](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.0...@seeliang/foo@1.0.23-alpha.1) (2022-05-02)
+
+
+### Bug Fixes
+
+* release trigger ([5ced9c8](https://github.com/seeliang/project-lerna/commit/5ced9c851a5306c3cc9757c00a6c35fcf004c26f))
+
+
+
+
+
 ## 1.0.22 (2021-10-27)
 
 
