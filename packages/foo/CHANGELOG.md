@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.23-alpha.3](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.2...@seeliang/foo@1.0.23-alpha.3) (2022-05-02)
+
+
+### Bug Fixes
+
+* pre ([efc52f7](https://github.com/seeliang/project-lerna/commit/efc52f756d65010ed547328e6381135545921edd))
+
+
+
+
+
 ## [1.0.23-alpha.2](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.1...@seeliang/foo@1.0.23-alpha.2) (2022-05-02)
 
 
