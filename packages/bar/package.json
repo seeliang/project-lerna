@@ -1,6 +1,6 @@
 {
   "name": "@seeliang/bar",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "> TODO: description",
   "author": "sliang <hi@sihuiliang.com>",
   "homepage": "https://github.com/seeliang/project-lerna#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/seeliang/project-lerna/issues"
   },
-  "gitHead": "7a94437b8c601574f0a0ea2d3a6866540bf735a5"
+  "gitHead": "69ba821b9f7f7df9c3b0022ab95972b6382c0952"
 }
