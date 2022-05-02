@@ -3,6 +3,6 @@
 module.exports = foo;
 
 function foo() {
-    // TODO wefw 
+    // TODO w
     console.log(23423)
 }
