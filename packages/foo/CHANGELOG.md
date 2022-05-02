@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.25-alpha.0](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.24...@seeliang/foo@1.0.25-alpha.0) (2022-05-02)
+
+
+### Bug Fixes
+
+* try merge release ([dd3c0b0](https://github.com/seeliang/project-lerna/commit/dd3c0b04a1b1161ea3d404ec06b0d04eb722ee3c))
+
+
+
+
+
 ## [1.0.24](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.24-alpha.0...@seeliang/foo@1.0.24) (2022-05-02)
 
 **Note:** Version bump only for package @seeliang/foo
