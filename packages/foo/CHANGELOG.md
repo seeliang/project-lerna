@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.24-alpha.0](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.4...@seeliang/foo@1.0.24-alpha.0) (2022-05-02)
+
+
+### Bug Fixes
+
+* graduate ([63296a4](https://github.com/seeliang/project-lerna/commit/63296a47367d354fb2ec41417b152a7bba442d49))
+
+
+
+
+
 ## [1.0.23](https://github.com/seeliang/project-lerna/compare/@seeliang/foo@1.0.23-alpha.4...@seeliang/foo@1.0.23) (2022-05-02)
 
 **Note:** Version bump only for package @seeliang/foo
