@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.18](https://github.com/seeliang/project-lerna/compare/@seeliang/dummy@1.1.18-alpha.0...@seeliang/dummy@1.1.18) (2022-05-02)
+
+**Note:** Version bump only for package @seeliang/dummy
+
+
+
+
+
 ## 1.1.17-alpha.1 (2021-10-27)
 
 
