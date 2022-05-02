@@ -1,4 +1,4 @@
-  if [$GITHUB_HEAD_REF = ""] ;
+  if [[ "$GITHUB_HEAD_REF" == "" ]] ;
   then    
     git checkout $GITHUB_HEAD_REF
     yarn release
