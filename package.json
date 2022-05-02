@@ -8,6 +8,7 @@
     "packages/**"
   ],
   "scripts": {
+    "release:pre": "yarn lerna publish --conventional-prerelease  --yes",
     "release": "yarn lerna publish --conventional-commits --yes",
     "test": "yarn lerna run test --since origin/master",
     "generate": "lerna create"

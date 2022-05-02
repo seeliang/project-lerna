@@ -3,5 +3,6 @@
     git checkout $GITHUB_HEAD_REF
     yarn release
   else 
-    echo "skip release for ${GITHUB_HEAD_REF} branch"
+    # echo "skip release for ${GITHUB_HEAD_REF} branch"
+    yarn release:pre
   fi
